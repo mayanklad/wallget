@@ -1,0 +1,8 @@
+name: wallget
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - requests
+  - beautifulsoup4
