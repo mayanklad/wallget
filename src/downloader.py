@@ -1,4 +1,7 @@
-"""wallget Alpha Coders wallpaper scraper
+"""
+Deprecated: Use src/wallget/downloader.py instead
+
+wallget Alpha Coders wallpaper scraper
 
 Downloads wallpapers from a given Alpha Coders category by parsing wallpaper cards and extracting image URLs.
 """
